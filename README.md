@@ -1,2 +1,0 @@
-# smooshi
-restaurant landing page
